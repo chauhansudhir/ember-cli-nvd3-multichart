@@ -15,8 +15,12 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Sudhir",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chauhansudhir/ember-cli-nvd3-multichart.git"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
     "ember-cli": "1.13.13",
