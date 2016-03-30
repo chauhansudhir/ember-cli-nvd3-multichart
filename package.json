@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-nvd3-multichart",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Emberjs wrapper to create nvd3 multichart",
   "directories": {
     "doc": "doc",
     "test": "tests"
